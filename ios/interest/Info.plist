@@ -47,5 +47,37 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIAppFonts</key>
+<array>
+  <string>MaterialIcons.ttf</string>
+  <string>Unbounded-VariableFont_wght.ttf</string>
+<string>Prompt-Black.ttf</string>
+<string>Prompt-BlackItalic.ttf</string>
+<string>Prompt-Bold.ttf</string>
+<string>Prompt-BoldItalic.ttf</string>
+<string>Prompt-ExtraBold.ttf</string>
+<string>Prompt-ExtraBoldItalic.ttf</string>
+<string>Prompt-ExtraLight.ttf</string>
+<string>Prompt-ExtraLightItalic.ttf</string>
+<string>Prompt-Italic.ttf</string>
+<string>Prompt-Light.ttf</string>
+<string>Prompt-LightItalic.ttf</string>
+<string>Prompt-Medium.ttf</string>
+<string>Prompt-MediumItalic.ttf</string>
+<string>Prompt-Regular.ttf</string>
+<string>Prompt-SemiBold.ttf</string>
+<string>Prompt-SemiBoldItalic.ttf</string>
+<string>Prompt-Thin.ttf</string>
+<string>Prompt-ThinItalic.ttf</string>
+<string>Unbounded-Black.ttf</string>
+<string>Unbounded-Bold.ttf</string>
+<string>Unbounded-ExtraBold.ttf</string>
+<string>Unbounded-ExtraLight.ttf</string>
+<string>Unbounded-Light.ttf</string>
+<string>Unbounded-Medium.ttf</string>
+<string>Unbounded-Regular.ttf</string>
+<string>Unbounded-SemiBold.ttf</string>  
+</array>
+
 </dict>
 </plist>
